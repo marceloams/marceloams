@@ -16,7 +16,7 @@
 
 ### Who am I? 🤔
 
-I'm a computer engineering student and an enthusiastic of technology. I've been part of the [IoT Research Group - Inatel](https://www.inatel.br/iotgroup/), where I've made some research on the Internet of Things field. Nowadays I'm spending my time developing web and mobile applications.
+I'm a computer engineer and an enthusiastic of technology. I've been part of the [IoT Research Group - Inatel](https://www.inatel.br/iotgroup/), where I've made some research on the Internet of Things field. Nowadays I'm spending my time developing web and mobile applications.
 
 ---
 
@@ -26,4 +26,9 @@ I'm a computer engineering student and an enthusiastic of technology. I've been 
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marceloams&layout=compact&langs_count=6&theme=flag-india&title_color=101E3F&text_color=F78620&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=marceloams&show_icons=true&theme=flag-india&count_private=true&title_color=101E3F&icon_color=101E3F&text_color=F78620&hide=issues,stars&hide_border=true) 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marceloams&layout=compact&langs_count=6&theme=yeblu&title_color=FFFFFF&text_color=F78620&hide_border=true)](https://github.com/anuraghazra/github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=marceloams&show_icons=true&theme=yeblu&count_private=true&title_color=FFFFFF&icon_color=FFFFFF&text_color=F78620&hide=issues,stars&hide_border=true" />
+</a>
