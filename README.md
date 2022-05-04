@@ -2,16 +2,15 @@
 
 ---
 
-<div align="center">
-  <img src="/github-profile-header.png">
-</div>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/marceloams/" target="_blank"> 
-    <img src="https://image.flaticon.com/icons/png/32/1409/1409945.png">
-  </a>
-</p>
-
+  <div align="center">
+    <img src="/github-profile-header.png">
+  </div>
+  <p align="center">
+    <a href="https://www.linkedin.com/in/marceloams/" target="_blank"> 
+      <img src="https://github.com/marceloams/marceloams/blob/main/linkedin-logo.png" height="32">
+    </a>
+  </p>  
+  
 ---
 
 ### Who am I? 🤔
