@@ -16,10 +16,40 @@ I'm a computer engineer and an enthusiastic of technology. I've been part of the
 
 ---
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marceloams&layout=compact&langs_count=6&theme=yeblu&title_color=FFFFFF&text_color=F78620&hide_border=true" />
-</a>
+### Repository Highlights 📦
 
-<!--<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=marceloams&show_icons=true&theme=yeblu&count_private=true&title_color=FFFFFF&icon_color=FFFFFF&text_color=F78620&hide=issues,stars&hide_border=true" />
-</a>-->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=marceloams&repo=smart-device-app&theme=yeblu&title_color=FFFFFF&icon_color=F78620&text_color=FFFFFF"/>
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=marceloams&repo=smart-device-library&theme=yeblu&title_color=FFFFFF&icon_color=F78620&text_color=FFFFFF"/>
+</div>
+&nbsp;
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=marceloams&repo=flutter_templates&theme=yeblu&title_color=FFFFFF&icon_color=F78620&text_color=FFFFFF&description_lines_count=1"/>
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=marceloams&repo=university_projects&theme=yeblu&title_color=FFFFFF&icon_color=F78620&text_color=FFFFFF"/>
+</div>
+
+---
+
+### Stats 📊
+
+<div align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marceloams&layout=compact&langs_count=6&theme=yeblu&title_color=FFFFFF&text_color=F78620" /> 
+  &nbsp;
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=marceloams&show_icons=true&theme=yeblu&count_private=true&title_color=FFFFFF&icon_color=FFFFFF&text_color=F78620" />
+</div>
+
+---
+
+### Quote of the day 💬
+
+<div align="center">
+  <img align="center" src="https://github-readme-quotes-bay.vercel.app/quote?theme=yeblu&animation=default&layout=default&font=default&quoteType=random&fontColor=orange&quoteCategory=programming" />
+</div>
+  
+--- 
+
+### Holopin Achievements 🎖️
+
+[![An image of @marceloams's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/marceloams)](https://holopin.io/@marceloams)
