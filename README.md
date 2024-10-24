@@ -6,7 +6,9 @@
 
 ### Who am I? 🤔
 
-I'm a computer engineer and an enthusiastic of technology. I've been part of the [IoT Research Group - Inatel](https://www.inatel.br/iotgroup/), where I've made some research on the Internet of Things field. Nowadays I'm spending my time developing web and mobile applications.
+<p align="justify">
+I'm a computer engineer and an enthusiast of technology. I've been part of the <a href="https://www.inatel.br/iotgroup/" target="_blank">IoT Research Group - Inatel</a>, where I conducted research in the field of Internet of Things. Nowadays, I am focusing on developing web and mobile applications.
+</p>
 
 ---
 
@@ -36,8 +38,8 @@ I'm a computer engineer and an enthusiastic of technology. I've been part of the
 
 <div align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marceloams&layout=compact&langs_count=6&theme=yeblu&title_color=FFFFFF&text_color=F78620" /> 
-  &nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=marceloams&show_icons=true&theme=yeblu&count_private=true&title_color=FFFFFF&icon_color=FFFFFF&text_color=F78620" />
+ <!-- &nbsp;
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=marceloams&show_icons=true&theme=yeblu&count_private=true&title_color=FFFFFF&icon_color=FFFFFF&text_color=F78620" /> -->
 </div>
 
 ---
