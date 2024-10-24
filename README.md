@@ -25,12 +25,6 @@ I'm a computer engineer and an enthusiast of technology. I've been part of the <
   &nbsp;
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=marceloams&repo=smart-device-library&theme=yeblu&title_color=FFFFFF&icon_color=F78620&text_color=FFFFFF"/>
 </div>
-&nbsp;
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=marceloams&repo=flutter_templates&theme=yeblu&title_color=FFFFFF&icon_color=F78620&text_color=FFFFFF&description_lines_count=1"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=marceloams&repo=university_projects&theme=yeblu&title_color=FFFFFF&icon_color=F78620&text_color=FFFFFF"/>
-</div>
 
 ---
 
@@ -44,7 +38,7 @@ I'm a computer engineer and an enthusiast of technology. I've been part of the <
 
 ---
 
-### Quote of the day 💬
+### Dev quote 💬
 
 <div align="center">
   <img align="center" src="https://github-readme-quotes-bay.vercel.app/quote?theme=yeblu&animation=default&layout=default&font=default&quoteType=random&fontColor=orange&quoteCategory=programming" />
