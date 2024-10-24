@@ -50,6 +50,6 @@ I'm a computer engineer and an enthusiast of technology. I've been part of the <
   
 --- 
 
-### Holopin Achievements 🎖️
+### Holopins 🎖️
 
 [![An image of @marceloams's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/marceloams)](https://holopin.io/@marceloams)
