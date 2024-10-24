@@ -21,9 +21,13 @@ I'm a computer engineer and an enthusiast of technology. I've been part of the <
 ### Repository Highlights 📦
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=marceloams&repo=smart-device-app&theme=yeblu&title_color=FFFFFF&icon_color=F78620&text_color=FFFFFF"/>
+  <a href="https://github.com/marceloams/smart-device-app">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=marceloams&repo=smart-device-app&theme=yeblu&title_color=FFFFFF&icon_color=F78620&text_color=FFFFFF"/>
+  </a>
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=marceloams&repo=smart-device-library&theme=yeblu&title_color=FFFFFF&icon_color=F78620&text_color=FFFFFF"/>
+  <a href="https://github.com/marceloams/smart-device-library">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=marceloams&repo=smart-device-library&theme=yeblu&title_color=FFFFFF&icon_color=F78620&text_color=FFFFFF"/>
+  </a>
 </div>
 
 ---
