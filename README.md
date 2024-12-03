@@ -45,7 +45,7 @@ I'm a computer engineer and an enthusiast of technology. I've been part of the <
 ### Dev quote 💬
 
 <div align="center">
-  <img align="center" src="https://github-readme-quotes-bay.vercel.app/quote?theme=yeblu&animation=default&layout=default&font=PixelifySans&quoteType=random&fontColor=orange&quoteCategory=programming" />
+  <img align="center" src="https://github-readme-quotes-bay.vercel.app/quote?theme=yeblu&animation=default&layout=default&font=PixelifySans&quoteType=random&fontColor=orange&quoteCategory=programming&borderColor=white" />
 </div>
   
 --- 
