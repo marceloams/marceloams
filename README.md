@@ -21,13 +21,9 @@ I'm a computer engineer and an enthusiast of technology. I've been part of the <
 ### Repository Highlights 📦
 
 <div align="center">
-  <a href="https://github.com/marceloams/smart-device-app">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=marceloams&repo=smart-device-app&theme=yeblu&title_color=FFFFFF&icon_color=F78620&text_color=FFFFFF"/>
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=marceloams&repo=smart-device-app&theme=yeblu&title_color=FFFFFF&icon_color=F78620&text_color=FFFFFF"/>
   &nbsp;
-  <a href="https://github.com/marceloams/smart-device-library">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=marceloams&repo=smart-device-library&theme=yeblu&title_color=FFFFFF&icon_color=F78620&text_color=FFFFFF"/>
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=marceloams&repo=smart-device-library&theme=yeblu&title_color=FFFFFF&icon_color=F78620&text_color=FFFFFF"/>
 </div>
 
 ---
@@ -36,7 +32,7 @@ I'm a computer engineer and an enthusiast of technology. I've been part of the <
 
 <div align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marceloams&layout=compact&langs_count=6&theme=yeblu&title_color=FFFFFF&text_color=F78620" /> 
- &nbsp;
+  &nbsp; &nbsp;
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=marceloams&show_icons=true&theme=yeblu&count_private=true&title_color=FFFFFF&icon_color=FFFFFF&text_color=F78620" />
 </div>
 
