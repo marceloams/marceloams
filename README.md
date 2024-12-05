@@ -36,8 +36,16 @@ I'm a computer engineer and an enthusiast of technology. I've been part of the <
 
 <div align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marceloams&layout=compact&langs_count=6&theme=yeblu&title_color=FFFFFF&text_color=F78620" /> 
- <!-- &nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=marceloams&show_icons=true&theme=yeblu&count_private=true&title_color=FFFFFF&icon_color=FFFFFF&text_color=F78620" /> -->
+ &nbsp;
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=marceloams&show_icons=true&theme=yeblu&count_private=true&title_color=FFFFFF&icon_color=FFFFFF&text_color=F78620" />
+</div>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/marceloams/marceloams/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="[github-snake.svg](https://raw.githubusercontent.com/marceloams/marceloams/output/github-contribution-grid-snake.svg)" />
+    <img alt="github-snake" src="github-snake.svg" />
+  </picture>
 </div>
 
 ---
