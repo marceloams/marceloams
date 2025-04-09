@@ -58,6 +58,9 @@
   
 --- 
 
-### Holopins 🎖️
+<details> 
+  <summary><h3>Holopins 🎖️</h3></summary>
 
 [![An image of @marceloams's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/marceloams)](https://holopin.io/@marceloams)
+
+</details>
