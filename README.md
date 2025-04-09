@@ -1,13 +1,19 @@
-  <div align="center">
-    <img src="/github-profile-header.png">
-  </div>  
-
----
-
-### Who am I? 🤔
-
-<p align="justify">
-I'm a computer engineer and an enthusiast of technology. I've been part of the <a href="https://www.inatel.br/iotgroup/" target="_blank">IoT Research Group - Inatel</a>, where I conducted research in the field of Internet of Things. Nowadays, I am focusing on developing web and mobile applications.
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=DM+Serif+Text&size=30&duration=1&pause=1000&color=F78620&vCenter=true&repeat=false&width=220&height=30&lines=Marcelo+Amorim" alt="Typing SVG" />
+</div>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=DM+Serif+Text&size=25&duration=2500&pause=2500&color=FFFFFF&vCenter=true&repeat=true&width=215&height=25&lines=Computer+Engineer">
+    <img src="https://readme-typing-svg.demolab.com?font=DM+Serif+Text&size=25&duration=2500&pause=2500&color=000000&vCenter=true&repeat=true&width=215&height=25&lines=Computer+Engineer" alt="Typing SVG">
+  </picture>
+</div>
+</br>
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/b529811e-59b9-46a7-8d99-db86e4067cf2" width=400>
+</div>
+</br>
+<p align="center">
+  Into IoT, apps, and making things that (hopefully) work.
 </p>
 
 ---
