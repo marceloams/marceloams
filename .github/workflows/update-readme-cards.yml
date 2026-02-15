@@ -1,0 +1,61 @@
+name: Update README cards
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # Roda diariamente à meia-noite UTC
+  workflow_dispatch: # Permite execução manual
+  push:
+    branches:
+      - main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: output
+          fetch-depth: 0
+      
+      - name: Generate stats card
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: stats
+          options: username=marceloams&show_icons=true&theme=yeblu&count_private=true&title_color=FFFFFF&icon_color=FFFFFF&text_color=F78620
+          path: stats.svg
+          token: ${{ secrets.GH_PAT }}
+      
+      - name: Generate top languages card
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: top-langs
+          options: username=marceloams&layout=compact&langs_count=6&theme=yeblu&title_color=FFFFFF&text_color=F78620
+          path: top-langs.svg
+          token: ${{ secrets.GH_PAT }}
+      
+      - name: Generate pin card - smart-device-app
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: pin
+          options: username=marceloams&repo=smart-device-app&theme=yeblu&title_color=FFFFFF&icon_color=F78620&text_color=FFFFFF
+          path: pin-smart-device-app.svg
+          token: ${{ secrets.GH_PAT }}
+      
+      - name: Generate pin card - soundbind
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: pin
+          options: username=uselessco&repo=soundbind&theme=yeblu&title_color=FFFFFF&icon_color=F78620&text_color=FFFFFF
+          path: pin-soundbind.svg
+          token: ${{ secrets.GH_PAT }}
+      
+      - name: Commit cards to output branch
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add *.svg
+          timestamp=$(date -u +"%Y-%m-%d %H:%M:%S UTC")
+          git diff --quiet && git diff --staged --quiet || git commit -m "chore: update GitHub stats cards - ${timestamp}"
+          git push origin output

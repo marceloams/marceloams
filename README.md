@@ -30,11 +30,11 @@
 
 <div align="center">
   <a href="https://github.com/marceloams/smart-device-app" target="_blank">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=marceloams&repo=smart-device-app&theme=yeblu&title_color=FFFFFF&icon_color=F78620&text_color=FFFFFF" alt="Smart Device App Repository"/>
+    <img align="center" src="https://raw.githubusercontent.com/marceloams/marceloams/output/pin-smart-device-app.svg" alt="Smart Device App Repository"/>
   </a>
   &nbsp; &nbsp;
   <a href="https://github.com/uselessco/soundbind" target="_blank">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=uselessco&repo=soundbind&theme=yeblu&title_color=FFFFFF&icon_color=F78620&text_color=FFFFFF" alt="Soundbind Repository"/>
+    <img align="center" src="https://raw.githubusercontent.com/marceloams/marceloams/output/pin-soundbind.svg" alt="Soundbind Repository"/>
   </a>
 </div>
 
@@ -43,9 +43,9 @@
 ### Stats 📊
 
 <div align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marceloams&layout=compact&langs_count=6&theme=yeblu&title_color=FFFFFF&text_color=F78620" /> 
+  <img align="center" src="https://raw.githubusercontent.com/marceloams/marceloams/output/top-langs.svg" alt="Top Languages" /> 
   &nbsp; &nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=marceloams&show_icons=true&theme=yeblu&count_private=true&title_color=FFFFFF&icon_color=FFFFFF&text_color=F78620" />
+  <img align="center" src="https://raw.githubusercontent.com/marceloams/marceloams/output/stats.svg" alt="GitHub Stats" />
 </div>
 
 ---
