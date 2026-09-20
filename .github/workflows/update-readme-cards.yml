@@ -14,13 +14,13 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v6
         with:
           ref: output
           fetch-depth: 0
       
       - name: Generate stats card
-        uses: readme-tools/github-readme-stats-action@v1
+        uses: stats-organization/github-readme-stats-action@v2
         with:
           card: stats
           options: username=marceloams&show_icons=true&theme=yeblu&count_private=true&title_color=FFFFFF&icon_color=FFFFFF&text_color=F78620
@@ -28,7 +28,7 @@ jobs:
           token: ${{ secrets.GH_PAT }}
       
       - name: Generate top languages card
-        uses: readme-tools/github-readme-stats-action@v1
+        uses: stats-organization/github-readme-stats-action@v2
         with:
           card: top-langs
           options: username=marceloams&layout=compact&langs_count=6&theme=yeblu&title_color=FFFFFF&text_color=F78620
@@ -36,7 +36,7 @@ jobs:
           token: ${{ secrets.GH_PAT }}
       
       - name: Generate pin card - smart-device-app
-        uses: readme-tools/github-readme-stats-action@v1
+        uses: stats-organization/github-readme-stats-action@v2
         with:
           card: pin
           options: username=marceloams&repo=smart-device-app&theme=yeblu&title_color=FFFFFF&icon_color=F78620&text_color=FFFFFF
@@ -44,7 +44,7 @@ jobs:
           token: ${{ secrets.GH_PAT }}
       
       - name: Generate pin card - soundbind
-        uses: readme-tools/github-readme-stats-action@v1
+        uses: stats-organization/github-readme-stats-action@v2
         with:
           card: pin
           options: username=uselessco&repo=soundbind&theme=yeblu&title_color=FFFFFF&icon_color=F78620&text_color=FFFFFF
